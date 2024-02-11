@@ -1,13 +1,15 @@
-- 👋 Hi, I’m @TyoungA
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+reng
 
-<!---
-TyoungA/TyoungA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-github.com/heryyy/bunga-buat-gift
+width500 cimslavs
+
+mask idosas" x="0" "0" width="100%" height="100%"
+
+mask Units user Spaceuse
+
+rect width="100%" height="100%"lackstroke "White" stroke-width="20
+
+text class-lextal" text-anchor-toddie dominant-baseline"100" 300
+
+La vita è bella
+
+=
